@@ -2,10 +2,16 @@
 
 Konsolenbasiertes Programm zur Bildkonvertierung und Kompression
 
+## Propra Format
+
+![image](https://github.com/user-attachments/assets/53bdb204-b9b5-4228-a66e-736bee0e9c99)
+
+
 ## Features
 
 - Konvertiert TGA, Propa
-- Kompression mittels Huffman-Kodierung, Lauflängen Kodierung (RLE)
+- Kompression mittels Huffman-Kodierung
+- Kompression mittels Lauflängen Kodierung (RLE)
 - Base32-Kodierung (und BaseN-Kodierung) zur Umwandlung von Bildern in Textform
 - Das Programm kann mit begrenztem Speicher auch sehr große Bilder korrekt verarbeiten
 - CLI-Interface
